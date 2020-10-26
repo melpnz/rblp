@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+	<linearGradient id="baikalinvest" gradientUnits="userSpaceOnUse" x1="-.2354" y1="40.0926" x2="38.475" y2="1.4445" gradientTransform="matrix(1 0 0 -1 0 39.8898)">
+		<stop offset="0" stop-color="#157fc4"/>
+		<stop offset="1" stop-color="#2e3c75"/>
+	</linearGradient>
+	<path d="M0 0v40h40V0H0z" fill="url(#baikalinvest)"/>
+	<path fill="#fff" d="M6.6 6.7v26.7h26.7V6.7H6.6zm19 21.8H11.4l3.1-5.4h14.2l-3.1 5.4zm0-10.8H11.4l3.1-5.4h14.2l-3.1 5.4z"/>
+</svg>
