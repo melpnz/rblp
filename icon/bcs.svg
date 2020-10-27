@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+	<linearGradient id="gr1" gradientUnits="userSpaceOnUse" x1="20" y1="87.6984" x2="20" y2="50.5441" gradientTransform="translate(0 -47.3)">
+		<stop offset="0" stop-color="#4581e9"/>
+		<stop offset=".4792" stop-color="#80acf0"/>
+		<stop offset="1" stop-color="#fff"/>
+	</linearGradient>
+	<circle cx="20" cy="20" r="20" fill="url(#gr1)"/>
+	<linearGradient id="gr2" gradientUnits="userSpaceOnUse" x1="46.8325" y1="87.9553" x2="12.6309" y2="61.6274" gradientTransform="translate(0 -47.3)">
+		<stop offset="0" stop-color="#4581e9"/>
+		<stop offset="1" stop-color="#4581e9" stop-opacity="0"/>
+	</linearGradient>
+	<circle cx="20" cy="20" r="20" fill="url(#gr2)"/>
+	<radialGradient id="gr3" cx="146.2484" cy="-47.1102" r="48.9704" gradientTransform="matrix(-.809 -.5879 .8327 -1.1459 200.341 63.0417)" gradientUnits="userSpaceOnUse">
+		<stop offset=".0969745" stop-color="#4581e9"/>
+		<stop offset=".4599" stop-color="#80acf0"/>
+		<stop offset=".7942" stop-color="#f0f6fd"/>
+	</radialGradient>
+	<path d="M20 .1c-3.7 0-7.2 1-10.1 2.8-.3.2-.6.5-.8.6-6.8 6-5.9 16.9 1.6 24.3s19 8.5 25.7 2.5c.7-.6 1.5-1.5 1.9-2.2 1-2.5 1.6-5.1 1.6-7.9C40 9 31 .1 20 .1z" fill="url(#gr3)"/>
+	<radialGradient id="gr4" cx="209.3334" cy="-41.1348" r="43.529" gradientTransform="matrix(-.9977 .06783 -.08088 -1.1896 267.2705 -57.0595)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#4581e9"/>
+		<stop offset=".5368" stop-color="#87b1f0"/>
+		<stop offset=".8057" stop-color="#cce0fd"/>
+		<stop offset="1" stop-color="#f0f6fd"/>
+	</radialGradient>
+	<path d="M38.2 19.4c.9-1.3 1.2-2.9 1-4.6-1.5-5.3-5-9.7-9.6-12.4-.1-.1-.3-.1-.4-.3C26.5.7 23.4 0 20 0c-2.8 0-5.4.6-7.8 1.6-.6.6-1.3 1.2-1.8 1.9-3 4.7.6 12.2 8.3 16.5 7.5 4.6 16.3 4.1 19.5-.6z" fill="url(#gr4)"/>
+</svg>
