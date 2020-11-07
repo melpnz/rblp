@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+	<path fill="url(#gr1)" d="M0 0v40h40V0H0zm33.4 33.3H6.7V6.7h26.8v26.6z"/>
+	<radialGradient id="gr1" cx="-14.7009" cy="7.2255" r="57.069" gradientTransform="matrix(1 0 0 -1 0 41.2)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#0093d8"/>
+		<stop offset=".3" stop-color="#006cb7"/>
+		<stop offset="1" stop-color="#08296c"/>
+	</radialGradient>
+	<path fill="url(#gr2)" d="M28.2 12.1H14.9l-3.1 5.3h13.3l3.1-5.3z"/>
+	<radialGradient id="gr2" cx="5.7843" cy="24.6863" r="23.271" gradientTransform="matrix(1 0 0 -1 0 41.2)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#0093d8"/>
+		<stop offset=".3" stop-color="#006cb7"/>
+		<stop offset="1" stop-color="#08296c"/>
+	</radialGradient>
+	<path fill="url(#gr3)" d="M28.2 22.7H14.9L11.8 28h13.3l3.1-5.3z"/>
+	<radialGradient id="gr3" cx="5.7843" cy="13.9756" r="23.271" gradientTransform="matrix(1 0 0 -1 0 41.2)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#0093d8"/>
+		<stop offset=".3" stop-color="#006cb7"/>
+		<stop offset="1" stop-color="#08296c"/>
+	</radialGradient>
+</svg>
