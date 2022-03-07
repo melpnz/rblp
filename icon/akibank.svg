@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
-	<g fill="#d99d00">
-		<path d="M17 11.5L0 20.1l17 8.6 17-8.6-17-8.6zM3.6 20.1L17 13.3 30.4 20 17 26.8 3.6 20.1z"/>
-		<path d="M20.6 10.1l19.4 10-19.4 9.8-1.8-1 17.6-8.8-17.6-8.9 1.8-1.1zM17 24.4l-8.5-4.3 8.5-4.3v3.7l-1.8 1v-2.1l-3 1.7 4.8 2.5v1.8z"/>
-		<path d="M18.2 16.4l5.5 2.8-5.5 2.8v-1.8l1.8-1-1.8-1v-1.8z"/>
-	</g>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40" xml:space="preserve">
+  <style>
+    .st0{fill:#bb9434}
+  </style>
+  <path class="st0" d="M17 11.3 0 20.1l17 8.8 17-8.8-17-8.8zM17 27 3.6 20.1l13.4-7L30.3 20 17 27z"/>
+  <path class="st0" d="M18.2 16.3v1.8l1.8 1-1.8 1v1.8l5.4-2.8z"/>
+  <path class="st0" d="m20.6 10-1.8.9 17.6 9.2-17.6 9.1 1.8.9 19.4-10zM17 24.5v-1.9l-4.9-2.5 3.2-1.7v2l1.7-.9v-3.8l-8.5 4.4z"/>
 </svg>
