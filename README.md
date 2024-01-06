@@ -1,5 +1,5 @@
 # 269 Russian Banks Logos
-*Last updated 05.01.2024*
+*Last updated 06.01.2024*
 
 About the project on [Behance](https://www.behance.net/gallery/100158955/150-Russian-Banks-Logos-Pack)
 
