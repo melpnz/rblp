@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+	<path class="bg-logo" fill="#2B2A29" d="M0 0h40v40H0z"/>
+	<path fill="#fff" d="M28.7025 11.1484 15.7621 24.1645l-4.7676-4.7675L6 24.3159l9.7621 9.6864L33.697 16.143l-4.9945-4.9946Z"/>
+	<path fill="url(#a)" d="M28.7025 6 15.7621 19.0161l-4.7676-4.7675L6 19.0918l9.7621 9.762L33.697 10.9189 28.7025 6Z"/>
+  	<linearGradient id="a" x1="19" x2="19" y1="28.8538" y2="5.99999" gradientUnits="userSpaceOnUse">
+  		<stop stop-color="#F4C600"/>
+  		<stop offset=".549" stop-color="#E76727"/>
+  		<stop offset="1" stop-color="#E12529"/>
+  	</linearGradient>
+</svg>

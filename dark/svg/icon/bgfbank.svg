@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+	<path class="bg-logo" fill="url(#a)" d="M0 0h40v40H0z"/>
+  	<linearGradient id="a" x1="40" x2="-.106136" y1="20" y2="20" gradientUnits="userSpaceOnUse">
+  		<stop stop-color="#13A538"/>
+  		<stop offset="1" stop-color="#0B4697"/>
+  	</linearGradient>
+	<g fill="#fff">
+		<path d="M24.02 7 8 19.18v2.64L24.02 9.64 32 15.28v-2.7L24.02 7Z"/>
+		<path d="M8 23.139v2.64l16.02-12.12 7.98 5.58v-2.7l-7.98-5.58L8 23.139Z"/>
+		<path d="M8 27.0999v2.7l16.02-12.18 7.98 5.58v-2.7l-7.98-5.58L8 27.0999Z"/>
+	</g>
+	<path fill="#EC6608" d="M26.5401 24.5205h-5.16v5.16h5.16v-5.16Z"/>
+</svg>

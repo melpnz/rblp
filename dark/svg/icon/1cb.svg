@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+	<path class="bg-logo" fill="#201600" d="M0 0h40v40H0z"/>
+	<path fill="url(#a)" d="M18.0602 15.3201h-5.4001v-3.24h10.4402V8H9v16.6803h9.0002c.06 0 .06-9.3602.06-9.3602Z"/>
+  	<linearGradient id="a" x1="7.62651" x2="21.3075" y1="9.75767" y2="20.4484" gradientUnits="userSpaceOnUse">
+  		<stop stop-color="#5997D4"/>
+  		<stop offset="1" stop-color="#363C6E"/>
+  	</linearGradient>
+	<path fill="url(#b)" d="M22.1402 15.3184v9.3001h5.4001v3.3001H17.1001v4.0801h14.1003V15.3184h-9.0602Z"/>
+  	<linearGradient id="b" x1="2706.04" x2="3553.91" y1="1793.28" y2="2352.73" gradientUnits="userSpaceOnUse">
+  		<stop stop-color="#5997D4"/>
+  		<stop offset="1" stop-color="#363C6E"/>
+  	</linearGradient>
+</svg>

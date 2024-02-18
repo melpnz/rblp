@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+	<path class="bg-logo" fill="#0056A4" d="M0 0h40v40H0z"/>
+	<path fill="url(#a)" d="M6.07007 20.7712c.07 2.31.84 4.62 2.16999 6.65 1.12-.98 6.08994-1.68 11.82994-1.68s10.71.7 11.83 1.68c1.26-2.03 2.03-4.34 2.1-6.72-1.75 1.12-7.35 1.89-13.93 1.89-6.7899 0-12.31994-.77-13.99993-1.82Z"/>
+	<path fill="url(#b)" d="M9.22021 28.8223c4.82999 5.95 13.50999 6.9299 19.45999 2.03.77-.63 1.47-1.33 2.03-2.03-2.03.7-6.16 1.26-10.78 1.26-4.62-.14-8.75-.56-10.70999-1.26Z"/>
+	<path fill="url(#c)" d="M30.78 11.18C28.12 7.89 24.13 6 19.9301 6h-.07c-4.2 0-8.12 1.89-10.78002 5.18 2.03002-.77 6.16002-1.26001 10.85002-1.26001 4.6899 0 8.8899.56001 10.8499 1.26001Z"/>
+	<path fill="url(#d)" d="M31.8299 12.5801c-1.12.98-6.0199 1.75-11.8299 1.75-5.81 0-10.78001-.7-11.83001-1.75C6.91 14.6101 6.14 16.9201 6 19.3001c1.68-1.05 7.28-1.89 13.93-1.89 6.6499 0 12.3199.84 13.9299 1.89v-.07c-.07-2.45-.77-4.62-2.03-6.65Z"/>
+  	<radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="translate(19.9272 8.40472) scale(26.2511)" gradientUnits="userSpaceOnUse">
+  		<stop stop-color="#FAC39D"/>
+  		<stop offset=".24" stop-color="#F08436"/>
+  		<stop offset=".48" stop-color="#EC6707"/>
+  		<stop offset=".73" stop-color="#EC6508"/>
+  		<stop offset="1" stop-color="#E74011"/>
+  	</radialGradient>
+  	<radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="translate(19.9273 8.40584) scale(26.2511)" gradientUnits="userSpaceOnUse">
+  		<stop stop-color="#FAC39D"/>
+  		<stop offset=".24" stop-color="#F08436"/>
+  		<stop offset=".48" stop-color="#EC6707"/>
+  		<stop offset=".73" stop-color="#EC6508"/>
+  		<stop offset="1" stop-color="#E74011"/>
+  	</radialGradient>
+  	<radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="translate(19.9272 8.40351) scale(26.2511)" gradientUnits="userSpaceOnUse">
+  		<stop stop-color="#FAC39D"/>
+  		<stop offset=".24" stop-color="#F08436"/>
+  		<stop offset=".48" stop-color="#EC6707"/>
+  		<stop offset=".73" stop-color="#EC6508"/>
+  		<stop offset="1" stop-color="#E74011"/>
+  	</radialGradient>
+  	<radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="translate(19.9271 8.40361) scale(26.2511)" gradientUnits="userSpaceOnUse">
+  		<stop stop-color="#FAC39D"/>
+  		<stop offset=".24" stop-color="#F08436"/>
+  		<stop offset=".48" stop-color="#EC6707"/>
+  		<stop offset=".73" stop-color="#EC6508"/>
+  		<stop offset="1" stop-color="#E74011"/>
+  	</radialGradient>
+</svg>
