@@ -29,8 +29,7 @@ Library for [Figma](https://www.figma.com/community/file/863381574197862284)
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/atb.png'> | АТБ | atb | окт 2016 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/avtotorgbank.png'> | АТБ | avtotorgbank | фев 2009 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/baltinvestbank.png'> | БалтИнвестБанк | baltinvestbank | сен 2003 |
-| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/bspb.png'> | Банк "Санкт-Петербург"
- | bspb | мая 2022 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/bspb.png'> | Банк "Санкт-Петербург" | bspb | мая 2022 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/131.png'> | Банк 131 | 131 | авг 2020 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/ofkazan.png'> | Банк Казани | ofkazan | мар 2015 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/bbr.png'> | ББР | bbr | янв 2023 |
