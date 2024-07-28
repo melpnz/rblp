@@ -1,5 +1,5 @@
-# 270 Russian Banks Logos
-*Last updated 22.07.2024*
+# 286 Russian Banks Logos
+*Last updated 28.07.2024*
 
 About the project on [Behance](https://www.behance.net/gallery/100158955/150-Russian-Banks-Logos-Pack)
 
@@ -47,11 +47,13 @@ Library for [Figma](https://www.figma.com/community/file/863381574197862284)
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/venets-bank.png'> | Венец | venets-bank | авг. 2013 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/ibv.png'> | Веста | ibv | июл. 2021 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/wumte.png'> | Вестерн Юнион | wumte | дек. 2022 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/vikingbank.png'> | Викинг | vikingbank | мая 2008 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/vlbb.png'> | Владбизнесбанк | vlbb | сент. 2016 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/vfbank.png'> | Внешфинбанк | vfbank | дек. 2018 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/vbank.png'> | Возрождение | vbank | дек. 2005 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/vtb.png'> | ВТБ | vtb | дек. 2017 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/vuzbank.png'> | ВУЗ-банк | vuzbank | сент. 2014 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/waybank.png'> | Вэйбанк | waybank | февр. 2023 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/gebank.png'> | Газэнергобанк | gebank | мар. 2020 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/gibank.png'> | Гарант-Инвест | gibank | янв. 2007 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/genbank.png'> | ГенБанк | genbank | февр. 2021 |
@@ -127,14 +129,17 @@ Library for [Figma](https://www.figma.com/community/file/863381574197862284)
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/mkb.png'> | МКБ | mkb | июл. 2022 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/mcplat.png'> | Мобильная Карта | mcplat | окт. 2018 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/modulbank.png'> | Модульбанк | modulbank | нояб. 2022 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/moneta.png'> | Монета | moneta | сент. 2023 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/maritimebank.png'> | Морской Банк | maritimebank | нояб. 2008 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/mcbank.png'> | Москва-сити | mcbank | авг. 2016 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/moskb.png'> | Москоммерцбанк | moskb | окт. 2008 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/mosoblbank.png'> | МосОблБанк | mosoblbank | мар. 2022 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/mcbankrus.png'> | МС Банк Рус | mcbankrus | сент. 2018 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/mspbank.png'> | МСП | mspbank | авг. 2017 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/mti-bank.png'> | МТИ Банк | mti-bank | июн. 2007 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/mtsbank.png'> | МТС | mtsbank | июл. 2019 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/profitbank.png'> | Муниципальный Камчатпрофитбанк | profitbank | сент. 2020 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/mtcfinance.png'> | Мурманский Расчетный Центр | mtcfinance | мая 2024 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/mfk-bank.png'> | МФК | mfk-bank | февр. 2009 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/natixis.png'> | Натиксис | natixis | апр. 2014 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/nipbank.png'> | Нацинвестпромбанк | nipbank | мая 2012 |
@@ -146,6 +151,7 @@ Library for [Figma](https://www.figma.com/community/file/863381574197862284)
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/novobank.png'> | Новобанк | novobank | мар. 2022 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/novokib.png'> | Новокиб | novokib | апр. 2016 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/newbank.png'> | Новый Век | newbank | дек. 2017 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/nodabank.png'> | НОДА | nodabank | мая 2024 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/nokss.png'> | НОКССБанк | nokss | окт. 2016 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/noosferabank.png'> | НООСФЕРА | noosferabank | февр. 2018 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/norvikbank.png'> | Норвик | norvikbank | мар. 2022 |
@@ -164,11 +170,13 @@ Library for [Figma](https://www.figma.com/community/file/863381574197862284)
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/peresvet.png'> | Пересвет | peresvet | апр. 2018 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/bankperm.png'> | Пермь | bankperm | мая 2017 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/vp.png'> | Перспектива | vp | февр. 2012 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/paymentkit.png'> | Платежный конструктор | paymentkit | мая 2024 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/platezhnyj-centr.png'> | Платежный Центр | platezhnyj-centr | февр. 2015 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/poidem.png'> | Пойдём! | poidem | мая 2011 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/pochtabank.png'> | Почта Банк | pochtabank | апр. 2016 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/primbank.png'> | Приморье | primbank | авг. 2021 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/pskb.png'> | Примсоцбанк | pskb | дек. 2023 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/priovtb.png'> | Прио-внешторгбанк | priovtb | июл. 2016 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/probank.png'> | ПроБанк | probank | янв. 2018 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/psbank.png'> | Промсвязьбанк | psbank | июн. 2019 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/prosto.png'> | ПростоБанк | prosto | мая 2022 |
@@ -180,6 +188,7 @@ Library for [Figma](https://www.figma.com/community/file/863381574197862284)
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/raiffeisen.png'> | Райффайзенбанк | raiffeisen | дек. 2021 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/ao-rr.png'> | Расчетные Решения | ao-rr | июл. 2018 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/round.png'> | Раунд | round | апр. 2014 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/rbabank.png'> | РБА | rbabank | окт. 2022 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/rgsbank.png'> | РГС | rgsbank | нояб. 2020 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/sdco.png'> | РДК | sdco | дек. 2019 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/realistbank.png'> | Реалист | realistbank | сент. 2020 |
@@ -218,6 +227,7 @@ Library for [Figma](https://www.figma.com/community/file/863381574197862284)
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/sovcombank.png'> | Совкомбанк | sovcombank | авг. 2021 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/solidbank.png'> | Солид | solidbank | апр. 2013 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/solid.png'> | Солидарность | solid | авг. 2009 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/socium-bank.png'> | Социум-банк | socium-bank | февр. 2013 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/soyuz.png'> | Союз | soyuz | окт. 2014 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/spbbank.png'> | СПБ Банк | spbbank | июл. 2021 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/slbank.png'> | Стройлесбанк | slbank | нояб. 2022 |
@@ -226,9 +236,11 @@ Library for [Figma](https://www.figma.com/community/file/863381574197862284)
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/tbank.png'> | Т‑Банк | tbank | июн. 2024 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/tavrich.png'> | Таврический | tavrich | июн. 2018 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/tatsotsbank.png'> | Татсоцбанк | tatsotsbank | июн. 2015 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/ypmnru.png'> | Твои Платежи | ypmnru | дек. 2023 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/tenderbank.png'> | Тендер | tenderbank | июл. 2017 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/timerbank.png'> | Тимер Банк | timerbank | окт. 2018 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/tkbbank.png'> | ТКБ | tkbbank | июн. 2014 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/toyotafinance.png'> | Тойота Банк | toyotafinance | мар. 2023 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/thbank.png'> | Тольяттихимбанк | thbank | окт. 2008 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/tpsbank.png'> | Томскпромстройбанк | tpsbank | февр. 2001 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/tochka.png'> | Точка | tochka | сент. 2022 |
@@ -246,6 +258,7 @@ Library for [Figma](https://www.figma.com/community/file/863381574197862284)
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/ffin.png'> | ФФИН Банк | ffin | июн. 2022 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/hicebank.png'> | Хайс | hicebank | мар. 2022 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/kbhmb.png'> | Хакасский муниципальный банк | kbhmb | мая 2012 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/bankhimik.png'> | Химик | bankhimik | апр. 2024 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/homecredit.png'> | ХКФ Банк | homecredit | июл. 2023 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/hlynov.png'> | Хлынов | hlynov | мая 2022 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/rnko-kholmsk.png'> | Холмск | rnko-kholmsk | февр. 2019 |
@@ -257,7 +270,10 @@ Library for [Figma](https://www.figma.com/community/file/863381574197862284)
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/chelindbank.png'> | Челиндбанк | chelindbank | апр. 2006 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/chelinvest.png'> | Челябинвестбанк | chelinvest | июл. 2001 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/hsbc.png'> | Эйч-эс-би-си | hsbc | апр. 2018 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/exibank.png'> | Экси-банк | exibank | мая 2024 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/expobank.png'> | Экспобанк | expobank | сент. 2023 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/eleksir.png'> | Элексир | eleksir | дек. 2021 |
+| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/elecsnet.png'> | Элекснет | elecsnet | июн. 2022 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/el-plat.png'> | ЭЛПЛАТ | el-plat | сент. 2017 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/mufg.png'> | Эм-Ю-Эф-Джи | mufg | дек. 2005 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/energobank.png'> | Энергобанк | energobank | апр. 2019 |
@@ -276,7 +292,6 @@ Library for [Figma](https://www.figma.com/community/file/863381574197862284)
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/ozoncard.png'> | Ozon.Card | ozoncard | дек. 2021 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/talkbank.png'> | TalkBank | talkbank | мая 2016 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/vkpay.png'> | VK Pay | vkpay | окт. 2021 |
-| <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/webmoney.png'> | WebMoney | webmoney | сент. 2014 |
 | <img width='20' height='20' src='https://github.com/melpnz/rblp/blob/master/dark/png/icon + colored background/webmoney.png'> | WebMoney | webmoney | сент. 2014 |
 
 _All logos used are the property of their owners and are protected in accordance with the current legislation of the Russian Federation._

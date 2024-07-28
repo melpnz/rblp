@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+	<path class="bg-logo" fill="#007CB5" d="M0 0h40v40H0z"/>
+	<path fill="#F6BC25" d="M32.5637 7h-3.5378v26h3.5378V7Z"/>
+	<path fill="#fff" d="M8 14.6875v11.0707h2.8185v-6.8117l2.9739 5.6094h2.0196l2.996-5.6356v6.8379h2.9517V14.6875h-3.4399l-3.4584 6.6144-3.5103-6.6144H8Z"/>
+</svg>
