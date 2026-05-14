@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="248"
+   height="248"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Deutsche_Bank_logo_without_wordmark.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.55625733"
+     inkscape:cx="-19.311028"
+     inkscape:cy="314.88195"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 0,8e-6 248,0 L 248,248 0,248 z"
+     id="rect3801"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#0051bf;fill-opacity:1;stroke:none"
+     d="m 0,1.2e-5 c 0,0 37.43698,4.580445 67.27341,22.538311 24.13714,15.148653 34.85856,29.079907 33.66712,41.360467 -3.84681,39.65015 -76.48747,60.3093 -92.81341,61.94013 0,0 56.59656,7.73299 83.59135,35.57765 50.26828,55.54153 -68.56578,88.688 -77.87102,86.47957 l -13.84745,0 z"
+     id="path3779"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccsccccc" />
+  <path
+     style="fill:#0051bf;fill-opacity:1;stroke:none"
+     d="m 46.57358,1.2e-5 c 0,0 108.31319,6.04813 108.76262,64.899088 0,0 9.88751,41.7797 -96.62795,61.09719 0,0 56.77396,1.91724 86.32805,33.38367 5.43778,5.08241 8.03036,11.47795 10.53533,17.11127 2.35065,5.28214 5.30268,11.79047 7.40492,15.99318 0,0 12.9846,34.69759 63.81938,55.41173 l 21.20408,0 0,-247.896128 z"
+     id="path3781"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccc" />
+</svg>
