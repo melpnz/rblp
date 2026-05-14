@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="334.15482mm"
+   height="155.29382mm"
+   viewBox="0 0 334.15482 155.29382"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="Salt Bank logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.24661688"
+     inkscape:cx="10.137181"
+     inkscape:cy="468.33777"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="path2416-7_00000099623758920578885640000009438899384925434020_"
+       gradientUnits="userSpaceOnUse"
+       x1="30.1066"
+       y1="660.95038"
+       x2="475.64511"
+       y2="868.00781"
+       gradientTransform="matrix(2.8346,0,0,-2.8346,-85.3253,2818.7507)">
+		<stop
+   offset="0"
+   style="stop-color:#04C9C5"
+   id="stop1" />
+
+		<stop
+   offset="1"
+   style="stop-color:#7EFE7E"
+   id="stop2" />
+
+	</linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-64.558333,-60.324999)">
+    <g
+       id="layer1-8"
+       transform="matrix(0.26458333,0,0,0.26458333,65.127187,-33.231666)">
+	
+		<linearGradient
+   id="linearGradient4"
+   gradientUnits="userSpaceOnUse"
+   x1="30.1066"
+   y1="660.95038"
+   x2="475.64511"
+   y2="868.00781"
+   gradientTransform="matrix(2.8346,0,0,-2.8346,-85.3253,2818.7507)">
+		<stop
+   offset="0"
+   style="stop-color:#04C9C5"
+   id="stop3" />
+
+		<stop
+   offset="1"
+   style="stop-color:#7EFE7E"
+   id="stop4" />
+
+	</linearGradient>
+
+	<path
+   id="path2416-7"
+   style="fill:url(#path2416-7_00000099623758920578885640000009438899384925434020_)"
+   d="m 600.77,353.6 c -63.3,0 -114.63,51.31 -114.63,114.62 0,0 0,0 0,0.01 0.03,12.39 2.06,24.69 6.02,36.43 32.39,-17.24 69.35,-27.03 108.6,-27.03 39.25,0 76.22,9.78 108.6,27.03 3.96,-11.74 6,-24.04 6.02,-36.43 C 715.39,404.92 664.07,353.6 600.77,353.6 Z m 108.6,151.05 c -15.65,46.68 -59.36,78.16 -108.6,78.19 -49.24,-0.03 -92.95,-31.51 -108.6,-78.19 -73.09,38.91 -122.85,115.85 -122.85,204.42 0,127.83 103.62,231.45 231.45,231.45 50.93,-0.05 100.43,-16.89 140.82,-47.92 23.81,32.44 60.83,48.32 90.63,47.92 V 709.07 C 832.21,620.5 782.45,543.56 709.37,504.65 Z M 173.65,353.69 c -87.7,0 -158.8,71.1 -158.8,158.8 0.08,52.75 26.41,101.92 70.1,131.49 43.14,29.2 110.52,57.41 133.47,85.47 8.18,10 12.42,22.66 12.42,35.58 0,31.58 -25.6,57.18 -57.19,57.18 -31.58,0 -57.18,-25.6 -57.18,-57.18 0,-0.1 0.01,-0.2 0.01,-0.29 H -2.15 c 0.01,97.09 78.71,175.79 175.8,175.79 97.08,0 175.79,-78.7 175.79,-175.79 -0.09,-67.37 -40.11,-124.53 -98.31,-158.47 -53.1,-30.97 -118.79,-56.31 -117.92,-93.78 0.52,-22.32 18.1,-40.43 40.43,-40.43 22.33,0 40.43,18.1 40.43,40.43 h 118.37 c 0.01,-87.7 -71.09,-158.8 -158.79,-158.8 z m 699.85,0 v 460.84 c 0,85.03 66.78,126.64 114.79,125.99 V 353.69 Z m 156.08,0 v 460.85 c 0,85.03 66.78,126.63 114.79,125.99 V 586.59 c 78.58,-4.8 117.04,-68.32 116.42,-114.49 H 1144.37 V 353.7 h -114.79 z" />
+
+</g>
+  </g>
+</svg>
