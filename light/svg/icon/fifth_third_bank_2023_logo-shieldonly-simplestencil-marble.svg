@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="359.9903"
+   height="317.63831"
+   viewBox="0 0 359.9903 317.63831"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Fifth Third Bank 2023 logo-shieldonly-simplestencil-marble.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.2935393"
+     inkscape:cx="179.35288"
+     inkscape:cy="158.86645"
+     inkscape:window-width="2560"
+     inkscape:window-height="1367"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">Logo-ShieldOnly-SimpleStencil-Marble</title>
+  <g
+     id="Logo-ShieldOnly-SimpleStencil-Marble"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="translate(-175.9997,-196.9997)">
+    <g
+       id="Logo/ShieldOnly/Primary"
+       transform="translate(175.9997,196.9997)"
+       fill="#ffffff">
+      <g
+         id="53-shield">
+        <path
+           d="m 14.594475,224.27179 c 0,43.31513 35.99903,78.92813 79.781443,78.92813 H 345.39583 V 93.366506 c 0,-43.314132 -35.99903,-78.928129 -79.78144,-78.928129 H 14.594475 Z M 265.61439,0 c 52.05295,0 94.37591,41.870294 94.37591,93.366506 V 317.6383 H 94.375918 C 42.322966,317.6383 0,275.76801 0,224.27179 V 0 Z"
+           id="shield" />
+        <g
+           id="53-lockup"
+           transform="translate(53.5123,52.94)">
+          <g
+             id="g1">
+            <path
+               d="m 223.29476,139.04141 c 28.45696,-5.79137 32.75291,-27.89726 27.92111,-42.110541 C 246.91993,85.877426 232.96039,72.190455 215.7766,72.190455 h -64.96998 c 25.23678,8.421908 31.68121,30.003485 31.68121,30.003485 0,0 10.20148,29.47917 -28.99688,37.37377 0,0 24.16407,10.52714 28.46002,30.00448 6.44341,29.47818 -31.14435,37.37378 -31.14435,37.37378 h 63.36039 c 30.06858,0 41.88066,-23.16249 38.12361,-38.95369 -3.22221,-16.31751 -15.03429,-23.1595 -28.99586,-28.95087"
+               id="Fill-4" />
+            <polygon
+               id="Fill-6"
+               points="142.86931,0 87.565135,211.75867 100.36717,211.75867 155.67135,0 " />
+            <path
+               d="m 69.926153,139.56821 c 17.076577,0 36.286337,-18.5627 31.484407,-41.766565 C 98.207245,81.814872 82.767691,67.377758 63.523573,67.377758 H 0 c 26.681457,8.765774 33.085047,31.969639 33.085047,31.969639 0,0 10.671977,31.970613 -30.416295,40.220813 z"
+               id="Fill-8" />
+            <polygon
+               id="Fill-10"
+               points="92.429865,4.812697 0,4.812697 0,52.939667 92.429865,52.939667 " />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
