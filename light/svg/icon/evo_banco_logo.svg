@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="2700" height="1200">
+<rect width="2700" height="1200" x="0" y="0" style="fill:#ffffff" />
+<path d="M 275,975 800,975 800,500 525,500 525,225 275,225 275,975 z M 625,225 800,225 800,400 625,400 625,225 z" style="fill:none;stroke-width:60;stroke:#000000" />
+<text x="975" y="1000" style="font-size:730px;font-family:Helvetica;font-weight:bold">EVO</text>
+</svg>

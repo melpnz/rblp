@@ -1,0 +1,224 @@
+<svg version="1.1" id="svg2" sodipodi:docname="DZ Bank.svg" inkscape:version="1.2 (dc2aedaf03, 2022-05-15)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="-0.02 -0.03 48.25 12.08">
+  <defs id="defs6">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath26">
+      <path d="M 626.244,20.055 H 825.023 V 64.701 H 626.244 Z" id="path24"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath256">
+      <path d="m 669.348,215.028 h 56.049 v 9.285 h -56.049 z" id="path254"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath362">
+      <path d="m 669.348,215.028 h 56.048 v 9.285 h -56.048 z" id="path360"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath432">
+      <path d="m 594.7,142.565 h 205.39 v 20.679 H 594.7 Z" id="path430"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath502">
+      <path d="m 594.7,121.595 h 50.018 v 19.269 H 594.7 Z" id="path500"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath606">
+      <path d="m 594.7,101.489 h 50.018 v 17.962 H 594.7 Z" id="path604"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath650">
+      <path d="m 708.424,114.467 c -0.563,0 -1.099,-0.458 -1.196,-1.021 v 0 l -1.028,-5.951 c -0.097,-0.563 0.28,-1.02 0.844,-1.02 v 0 h 30.907 c 0.563,0 1.098,0.457 1.196,1.02 v 0 l 1.027,5.951 c 0.098,0.563 -0.28,1.021 -0.844,1.021 v 0 z" id="path648"/>
+    </clipPath>
+    <linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(34.004914,0,0,-34.004914,706.18475,110.47049)" spreadMethod="pad" id="linearGradient664">
+      <stop style="stop-opacity: 1; stop-color: rgb(0, 186, 236); --darkreader-inline-stopcolor: #27d1ff;" offset="0" id="stop656" data-darkreader-inline-stopcolor=""/>
+      <stop style="stop-opacity: 1; stop-color: rgb(0, 186, 236); --darkreader-inline-stopcolor: #27d1ff;" offset="0.1" id="stop658" data-darkreader-inline-stopcolor=""/>
+      <stop style="stop-opacity: 1; stop-color: rgb(6, 30, 79); --darkreader-inline-stopcolor: #cdc9c2;" offset="0.9" id="stop660" data-darkreader-inline-stopcolor=""/>
+      <stop style="stop-opacity: 1; stop-color: rgb(6, 30, 79); --darkreader-inline-stopcolor: #cdc9c2;" offset="1" id="stop662" data-darkreader-inline-stopcolor=""/>
+    </linearGradient>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath678">
+      <path d="m 698.179,100.836 h 50.018 v 19.269 h -50.018 z" id="path676"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath716">
+      <path d="m 758.379,105.456 h 34.789 v 11.26 h -34.789 z" id="path714"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath778">
+      <path d="m 698.179,121.595 h 50.018 v 19.269 h -50.018 z" id="path776"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath792">
+      <path d="m 757.147,125.812 h 35.866 v 10.836 h -35.866 z" id="path790"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath806">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path804"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath832">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path830"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath858">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path856"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath872">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path870"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath900">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path898"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath916">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path914"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath928">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path926"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath954">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path952"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath970">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path968"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath982">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path980"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath998">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path996"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1028">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path1026"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1060">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path1058"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1112">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path1110"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1130">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path1128"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1146">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path1144"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1158">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path1156"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1186">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path1184"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1198">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path1196"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1214">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path1212"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1226">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path1224"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1242">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path1240"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1254">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path1252"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1270">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path1268"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1282">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path1280"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1298">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path1296"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1322">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path1320"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1338">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path1336"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1350">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path1348"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1366">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path1364"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1378">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path1376"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1394">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path1392"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1406">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path1404"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1422">
+      <path d="m 649.201,128.423 h 44.726 v 5.614 h -44.726 z" id="path1420"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1434">
+      <path d="M 0,0 H 841.89 V 595.276 H 0 Z" id="path1432"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1476">
+      <path d="m 651.551,107.354 h 40.104 v 6.234 h -40.104 z" id="path1474"/>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview id="namedview4" pagecolor="#505050" bordercolor="#eeeeee" borderopacity="1" inkscape:showpageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#505050" showgrid="false" inkscape:zoom="5.8015264" inkscape:cx="61.449346" inkscape:cy="6.1190793" inkscape:window-width="1920" inkscape:window-height="1001" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="g8"/>
+  <g id="g8" inkscape:groupmode="layer" inkscape:label="DZ_BANK_Faltblatt_Zahlen_und_Fakten_Online_DE_final" transform="matrix(1.3333333,0,0,-1.3333333,-802.38278,180.98666)">
+    <g id="g496">
+      <g id="g498" clip-path="url(#clipPath502)">
+        <g id="g504" transform="translate(611.6024,127.0697)">
+          <path d="m 0,0 h 0.36 c 0.589,0 0.914,0.284 0.914,0.901 0,0.558 -0.38,0.888 -0.873,0.888 L 0,1.789 Z m -0.343,2.09 h 0.706 c 0.709,0 1.275,-0.438 1.275,-1.175 0,-0.802 -0.486,-1.216 -1.275,-1.216 h -0.706 z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path506" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <path d="m 613.696,128.516 h 0.322 v -1.747 h -0.322 z m 0.343,0.39 h -0.363 v 0.363 h 0.363 z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path508" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        <g id="g510" transform="translate(615.7496,127.8096)" inkscape:label="g510">
+          <path d="M 0,0 C 0,0.267 -0.158,0.487 -0.436,0.487 -0.751,0.487 -0.881,0.226 -0.905,0 Z m 0.209,-0.969 c -0.123,-0.045 -0.264,-0.114 -0.552,-0.114 -0.62,0 -0.905,0.377 -0.905,0.946 0,0.518 0.325,0.884 0.819,0.884 0.583,0 0.772,-0.425 0.772,-0.987 h -1.248 c 0,-0.346 0.271,-0.582 0.575,-0.582 0.214,0 0.46,0.109 0.539,0.175 z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path512" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <path d="m 617.602,129.16 h 0.343 v -2.392 h -0.343 z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path514" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        <g id="g516" transform="translate(618.5786,128.5156)">
+          <path d="m 0,0 h 0.312 v -0.278 h 0.007 c 0.096,0.199 0.329,0.319 0.572,0.319 0.453,0 0.655,-0.281 0.655,-0.75 V -1.747 H 1.224 v 0.904 c 0,0.408 -0.089,0.607 -0.37,0.624 -0.367,0 -0.532,-0.295 -0.532,-0.72 V -1.747 H 0 Z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path518" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <path d="m 620.683,128.516 h 0.322 v -1.747 h -0.322 z m 0.343,0.39 h -0.363 v 0.363 h 0.363 z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path520" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        <g id="g522" transform="translate(622.6307,128.2555)">
+          <path d="m 0,0 h -0.463 v -0.956 c 0,-0.203 0.123,-0.312 0.271,-0.312 0.099,0 0.171,0.031 0.219,0.062 v -0.275 c -0.072,-0.021 -0.171,-0.048 -0.274,-0.048 -0.332,0 -0.538,0.158 -0.538,0.507 V 0 h -0.394 v 0.26 h 0.394 v 0.405 l 0.322,0.102 V 0.26 H 0 Z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path524" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <path d="m 623.107,128.516 h 0.322 v -1.747 h -0.322 z m 0.342,0.39 h -0.363 v 0.363 h 0.363 z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path526" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        <g id="g528" transform="translate(625.0709,127.6008)">
+          <path d="m 0,0 c -0.069,0 -0.137,0.007 -0.206,0.007 -0.174,0 -0.606,-0.027 -0.606,-0.336 0,-0.185 0.178,-0.284 0.325,-0.284 0.319,0 0.487,0.198 0.487,0.459 z m -0.956,0.792 c 0.161,0.096 0.353,0.164 0.576,0.164 0.5,0 0.703,-0.247 0.703,-0.723 V -0.49 c 0,-0.199 0.006,-0.292 0.013,-0.342 H 0.034 v 0.225 H 0.028 c -0.076,-0.106 -0.247,-0.267 -0.542,-0.267 -0.377,0 -0.641,0.164 -0.641,0.545 0,0.439 0.48,0.576 0.812,0.576 0.127,0 0.216,0 0.343,-0.007 0,0.301 -0.11,0.456 -0.431,0.456 -0.182,0 -0.378,-0.069 -0.508,-0.179 z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path530" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <g id="g532" transform="translate(626.9221,128.2555)">
+          <path d="m 0,0 h -0.463 v -0.956 c 0,-0.203 0.124,-0.312 0.271,-0.312 0.099,0 0.171,0.031 0.219,0.062 v -0.275 c -0.072,-0.021 -0.171,-0.048 -0.274,-0.048 -0.332,0 -0.538,0.158 -0.538,0.507 V 0 h -0.393 v 0.26 h 0.393 v 0.405 l 0.322,0.102 V 0.26 H 0 Z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path534" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <path d="m 627.384,128.516 h 0.323 v -1.747 h -0.323 z m 0.343,0.39 h -0.363 v 0.363 h 0.363 z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path536" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        <g id="g538" transform="translate(629.1331,126.7683)">
+          <path d="m 0,0 h -0.384 l -0.627,1.747 h 0.353 l 0.473,-1.425 h 0.006 l 0.484,1.425 h 0.322 z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path540" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <g id="g542" transform="translate(630.9872,128.2964)">
+          <path d="m 0,0 c -0.349,0 -0.517,-0.332 -0.517,-0.658 0,-0.291 0.151,-0.651 0.514,-0.651 0.346,0 0.49,0.387 0.483,0.661 C 0.487,-0.332 0.35,0 0,0 m -0.84,1.042 h 0.323 v -1.063 h 0.007 c 0.099,0.162 0.274,0.281 0.579,0.281 0.507,0 0.754,-0.414 0.754,-0.884 0,-0.479 -0.223,-0.946 -0.75,-0.946 -0.313,0 -0.511,0.158 -0.597,0.288 H -0.531 V -1.528 H -0.84 Z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path544" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <g id="g546" transform="translate(633.3351,127.6008)">
+          <path d="m 0,0 c -0.068,0 -0.137,0.007 -0.206,0.007 -0.174,0 -0.606,-0.027 -0.606,-0.336 0,-0.185 0.178,-0.284 0.325,-0.284 0.319,0 0.487,0.198 0.487,0.459 z m -0.956,0.792 c 0.161,0.096 0.353,0.164 0.576,0.164 0.5,0 0.702,-0.247 0.702,-0.723 V -0.49 c 0,-0.199 0.007,-0.292 0.014,-0.342 H 0.034 v 0.225 H 0.027 c -0.075,-0.106 -0.246,-0.267 -0.541,-0.267 -0.377,0 -0.641,0.164 -0.641,0.545 0,0.439 0.48,0.576 0.812,0.576 0.127,0 0.216,0 0.343,-0.007 0,0.301 -0.109,0.456 -0.432,0.456 -0.181,0 -0.377,-0.069 -0.507,-0.179 z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path548" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <g id="g550" transform="translate(634.2269,128.5156)">
+          <path d="m 0,0 h 0.312 v -0.278 h 0.006 c 0.097,0.199 0.329,0.319 0.573,0.319 0.452,0 0.655,-0.281 0.655,-0.75 V -1.747 H 1.223 v 0.904 c 0,0.408 -0.089,0.607 -0.37,0.624 -0.367,0 -0.531,-0.295 -0.531,-0.72 V -1.747 H 0 Z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path552" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <g id="g554" transform="translate(636.3588,129.3385)">
+          <path d="m 0,0 h 0.322 v -1.532 l 0.702,0.709 h 0.44 L 0.651,-1.598 1.566,-2.57 H 1.103 L 0.322,-1.673 V -2.57 H 0 Z" style="fill: rgb(157, 158, 158); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #aaa398; --darkreader-inline-stroke: none;" id="path556" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <path d="m 608.875,130.978 h -7.087 v 4.762 h 7.087 z" style="fill: rgb(255, 255, 255); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #e8e6e3; --darkreader-inline-stroke: none;" id="path558" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        <g id="g560" transform="translate(611.2114,131.0322)">
+          <path d="M 0,0 V 4.66 H 1.281 C 2.718,4.66 3.985,4.179 3.985,2.33 3.985,0.48 2.718,0 1.281,0 Z M 0.94,3.926 V 0.735 h 0.523 c 0.785,0 1.542,0.58 1.542,1.595 0,1.015 -0.757,1.596 -1.542,1.596 z" style="fill: rgb(0, 91, 168); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #67bdff; --darkreader-inline-stroke: none;" id="path562" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <g id="g564" transform="translate(615.4512,131.0322)">
+          <path d="M 0,0 V 0.761 L 2.2,3.926 H 0.087 V 4.66 H 3.2 V 3.899 L 0.979,0.735 H 3.246 V 0 Z" style="fill: rgb(0, 91, 168); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #67bdff; --darkreader-inline-stroke: none;" id="path566" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <g id="g568" transform="translate(621.4801,133.1154)">
+          <path d="m 0,0 v -1.348 h 0.443 c 0.436,0 0.966,0.107 0.966,0.648 0,0.607 -0.496,0.7 -0.966,0.7 z M 0,1.843 V 0.695 h 0.382 c 0.397,0 0.886,0.086 0.886,0.567 0,0.54 -0.476,0.581 -0.906,0.581 z m -0.939,-3.926 v 4.66 h 1.637 c 0.604,0 1.509,-0.174 1.509,-1.195 0,-0.555 -0.376,-0.941 -0.932,-1.041 0.637,-0.074 1.073,-0.501 1.073,-1.075 0,-1.175 -1.059,-1.349 -1.65,-1.349 z" style="fill: rgb(0, 91, 168); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #67bdff; --darkreader-inline-stroke: none;" id="path570" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <g id="g572" transform="translate(627.041,132.8349)">
+          <path d="M 0,0 -0.678,1.923 -1.368,0 Z m -3.018,-1.803 1.824,4.66 h 1.06 l 1.839,-4.66 H 0.664 l -0.402,1.069 h -1.899 l -0.409,-1.069 z" style="fill: rgb(0, 91, 168); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #67bdff; --darkreader-inline-stroke: none;" id="path574" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <g id="g576" transform="translate(634.0912,131.0322)">
+          <path d="M 0,0 V 4.66 H 0.952 V 2.657 L 2.63,4.66 H 3.783 L 1.858,2.463 3.864,0 H 2.636 L 0.952,2.164 V 0 Z" style="fill: rgb(0, 91, 168); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #67bdff; --darkreader-inline-stroke: none;" id="path578" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <g id="g580" transform="translate(629.201,131.0317)">
+          <path d="M 0,0 V 4.66 H 1.154 L 2.951,1.175 V 4.66 h 0.9 V 0 H 2.704 L 0.899,3.486 V 0 Z" style="fill: rgb(0, 91, 168); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #67bdff; --darkreader-inline-stroke: none;" id="path582" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <g id="g584" transform="translate(608.875,131.8167)">
+          <path d="M 0,0 H -2.702 C -2.775,-0.385 -2.837,-0.712 -2.861,-0.839 H 0 Z" style="fill: rgb(238, 99, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #ff8025; --darkreader-inline-stroke: none;" id="path586" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <g id="g588" transform="translate(601.7875,131.8167)">
+          <path d="M 0,0 V -0.839 H 2.841 L 2.652,0 Z" style="fill: rgb(238, 99, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #ff8025; --darkreader-inline-stroke: none;" id="path590" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+        <g id="g592" transform="translate(603.1841,133.7896)">
+          <path d="m 0,0 -0.207,0.866 h 1.764 l 0.572,-2.487 h 0.024 l 0.36,1.593 c 0.182,0.723 0.25,0.894 1.272,0.894 h 0.736 c 0,0 -0.149,-0.667 -0.333,-1.39 C 4.117,-0.8 3.503,-0.767 3.534,-0.51 3.537,-0.482 3.566,-0.289 3.589,-0.151 3.622,0.048 3.389,0.072 3.348,-0.124 3.317,-0.265 3.183,-0.964 3.057,-1.62 h 2.634 v 3.57 h -7.088 v -3.57 h 2.573 l -0.367,1.618 z" style="fill: rgb(0, 91, 168); fill-opacity: 1; fill-rule: nonzero; stroke: none; --darkreader-inline-fill: #67bdff; --darkreader-inline-stroke: none;" id="path594" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="371.432px" height="89.533px" viewBox="0 0 371.432 89.533" enable-background="new 0 0 371.432 89.533"
+	 xml:space="preserve">
+<filter  width="100%" x="0%" y="0%" height="100%" id="AI_Alpha_4" filterUnits="objectBoundingBox">
+	<feTurbulence  type="fractalNoise" result="turb" numOctaves="4" stitchTiles="noStitch" baseFrequency="0.1"></feTurbulence>
+	<feComposite  in="SourceGraphic" in2="turb" operator="in"></feComposite>
+</filter>
+<g id="VALOVIS_BANK">
+	<path fill="#989083" d="M197.707,59.168c0,3.69-0.802,5.456-3.156,6.794c1.23,0.374,1.819,0.642,2.354,1.069
+		c1.711,1.445,2.567,3.799,2.567,7.116v0.695c0,6.58-3.37,9.63-10.64,9.63h-32.094V48.79h30.334c7.264,0,10.634,3.05,10.634,9.63
+		V59.168z M185.63,63.983c3.416,0,4.376-0.214,5.336-1.07c0.75-0.695,1.07-1.605,1.07-3.209v-1.284c0-1.604-0.32-2.515-1.07-3.21
+		c-0.96-0.855-1.92-1.07-5.336-1.07h-23.167v9.844H185.63z M187.446,79.124c3.36,0,4.323-0.215,5.339-1.07
+		c0.749-0.695,1.069-1.605,1.069-3.156v-1.338c0-1.552-0.32-2.461-1.069-3.156c-1.017-0.856-1.979-1.07-5.339-1.07h-24.982v9.791
+		H187.446z"/>
+	<path fill="#989083" d="M273.713,84.463h-5.725V48.676h5.725l31.35,19.259V48.676h5.725v35.787h-5.725V74.087l-31.35-19.099V84.463
+		z"/>
+	<path fill="#989083" d="M332.453,84.463h-5.725V48.689h5.725v15.193h8.025l17.656-15.193h7.863L344.92,66.397l21.83,18.061h-8.023
+		l-18.248-15.226h-8.025V84.463z"/>
+	<g>
+		<polygon fill="#989083" points="229.108,69.173 234.834,69.173 234.834,74.523 229.108,74.523 229.108,69.173 		"/>
+		<path fill="#989083" d="M212.996,84.474h-6.42l23.282-35.792h4.28l23.229,35.792h-6.42l-18.948-29.961L212.996,84.474z"/>
+	</g>
+	<path fill="#99042F" d="M116.362,6.157v30.457h28.891l-1.025,5.35h-33.59V6.157H116.362z"/>
+	<path fill="#99042F" d="M197.711,31.263c0,4.066-0.695,6.366-2.516,8.132c-1.873,1.819-4.227,2.568-8.181,2.568h-21.4
+		c-3.959,0-6.313-0.749-8.185-2.568c-1.819-1.766-2.515-4.065-2.515-8.132V16.979c0-4.066,0.695-6.367,2.515-8.132
+		c1.872-1.819,4.226-2.568,8.185-2.568h21.4c3.955,0,6.308,0.749,8.181,2.568c1.82,1.765,2.516,4.065,2.516,8.132V31.263z
+		 M160.639,30.193c0,3.317,0.214,4.441,1.07,5.351c0.856,0.855,1.873,1.07,5.35,1.07h18.512c3.472,0,4.49-0.215,5.345-1.07
+		c0.855-0.909,1.07-2.033,1.07-5.351V18.048c0-3.316-0.215-4.44-1.07-5.35c-0.855-0.855-1.873-1.07-5.345-1.07h-18.512
+		c-3.478,0-4.494,0.215-5.35,1.07c-0.856,0.909-1.07,2.033-1.07,5.35V30.193z"/>
+	<path fill="#99042F" d="M273.714,41.963h-5.725V6.157h5.725V41.963z"/>
+	<path fill="#99042F" d="M291.172,36.614h29.076c3.371,0,4.334-0.215,5.351-1.07c0.749-0.695,1.07-1.605,1.07-3.156v-1.338
+		c0-1.552-0.321-2.461-1.07-3.156c-1.017-0.856-1.979-1.07-5.351-1.07h-19.901c-4.013,0-6.42-0.749-8.186-2.568
+		c-1.605-1.658-2.515-4.227-2.515-7.062v-1.284c0-2.835,0.909-5.457,2.515-7.062c1.766-1.819,4.173-2.568,8.186-2.568h29.558
+		l-1.007,5.35h-27.053c-3.371,0-4.334,0.215-5.351,1.07c-0.749,0.695-1.069,1.605-1.069,3.21v1.284c0,1.604,0.32,2.515,1.069,3.21
+		c1.017,0.856,1.979,1.07,5.351,1.07h19.901c4.013,0,6.421,0.749,8.186,2.567c1.605,1.605,2.515,4.173,2.515,7.063v1.284
+		c0,2.781-0.909,5.403-2.515,7.008c-1.765,1.819-4.173,2.568-8.186,2.568h-31.581L291.172,36.614z"/>
+	<g>
+		<polygon fill="#99042F" points="72.246,26.663 77.972,26.663 77.972,32.012 72.246,32.012 72.246,26.663 		"/>
+		<path fill="#99042F" d="M56.133,41.963h-6.42L72.996,6.171h4.28l23.229,35.792h-6.42L75.136,12.002L56.133,41.963z"/>
+	</g>
+	<path fill="#99042F" d="M250.947,6.169h6.42l-23.281,35.792h-4.281L206.576,6.169h6.42l18.949,29.961L250.947,6.169z"/>
+	<path fill="#99042F" d="M46.581,6.17h6.42L29.718,41.962h-4.279L2.209,6.17h6.42l18.948,29.961L46.581,6.17z"/>
+</g>
+<g id="Raster" display="none">
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="154.909" y1="-25.024" x2="154.909" y2="145.054"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="2.209" y1="-25.024" x2="2.209" y2="145.054"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="366.75" y1="-25.024" x2="366.75" y2="145.054"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="332.445" y1="-25.024" x2="332.445" y2="145.054"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="326.728" y1="-25.024" x2="326.728" y2="145.054"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="156.739" y1="-25.024" x2="156.739" y2="145.054"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="197.712" y1="-25.024" x2="197.712" y2="145.054"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="267.987" y1="-25.024" x2="267.987" y2="145.054"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="273.714" y1="-25.024" x2="273.714" y2="145.054"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="231.971" y1="-25.024" x2="231.971" y2="145.054"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="-11.964" y1="96.866" x2="384.886" y2="96.866"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="-11.964" y1="84.475" x2="384.886" y2="84.475"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="-11.964" y1="48.676" x2="384.886" y2="48.676"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="-11.964" y1="41.964" x2="384.886" y2="41.964"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="-11.964" y1="6.157" x2="384.886" y2="6.157"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-width="0.25" x1="-11.964" y1="107.223" x2="384.886" y2="107.223"/>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 149.8398 -31.6079)" font-family="'ArialMT'" font-size="8">116,5 mm</text>
+		<g>
+			<g>
+				<line fill="none" stroke="#000000" stroke-width="0.5" x1="6.713" y1="-29.314" x2="328.035" y2="-29.314"/>
+				<polygon points="327.044,-27.88 332.465,-29.332 327.044,-30.785 				"/>
+				<polygon points="7.704,-30.749 2.283,-29.297 7.704,-27.844 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 243.3877 166.8169)" display="inline" font-family="'ArialMT'" font-size="8">116,5 mm</text>
+	<g display="inline">
+		<g>
+			<line fill="none" stroke="#000000" stroke-width="0.5" x1="159.336" y1="169.136" x2="362.417" y2="169.136"/>
+			<polygon points="361.427,170.571 366.847,169.119 361.427,167.666 			"/>
+			<polygon points="160.327,167.702 154.906,169.154 160.327,170.606 			"/>
+		</g>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 166.542 -45.7803)" font-family="'ArialMT'" font-size="8">128,6 mm</text>
+		<g>
+			<g>
+				<line fill="none" stroke="#000000" stroke-width="0.5" x1="6.339" y1="-43.492" x2="362.316" y2="-43.492"/>
+				<polygon points="361.325,-42.057 366.746,-43.509 361.325,-44.962 				"/>
+				<polygon points="7.33,-44.926 1.909,-43.474 7.33,-42.021 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Ebene_6" display="none">
+	<rect x="210.537" y="101.452" display="inline" width="9.823" height="2.85"/>
+	<rect x="228.653" y="101.452" display="inline" width="9.823" height="2.85"/>
+	<rect x="243.554" y="101.452" display="inline" width="9.823" height="2.85"/>
+	<rect x="259.729" y="101.452" display="inline" width="9.823" height="2.85"/>
+	<rect x="270.791" y="101.452" display="inline" width="9.823" height="2.85"/>
+	<rect x="286.019" y="101.452" display="inline" width="9.823" height="2.85"/>
+	<rect x="300.983" y="101.452" display="inline" width="9.823" height="2.85"/>
+	<rect x="317.103" y="101.452" display="inline" width="9.823" height="2.85"/>
+	<rect x="331.028" y="101.452" display="inline" width="9.823" height="2.85"/>
+	<rect x="192.378" y="101.452" display="inline" width="9.823" height="2.85"/>
+	<rect x="161.618" y="101.452" display="inline" width="9.823" height="2.85"/>
+	<rect x="176.582" y="101.452" display="inline" width="9.823" height="2.85"/>
+	<rect x="349.191" y="101.452" display="inline" width="9.823" height="2.85"/>
+</g>
+<g id="Hilfslinien" display="none">
+</g>
+</svg>
